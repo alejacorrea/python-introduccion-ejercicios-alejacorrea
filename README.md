@@ -1,22 +1,35 @@
-# EJERCICIOS DE INTRODUCCION A PYTHON
+# Ejercicios de Introducción a Python
 
-# ALEJANDRA CORREA PEREZ
-# 16 DE FEBRERO 2026
+**Autora:** Alejandra Correa Pérez  
+**Fecha:** 19 de febrero de 2026  
 
-# Descripcion:
-# Contiene 10 ejercicios individuales de programacion en Python como parte de la actividad de la Semana 2.
-# Cada ejercicio esta diseñado para practicar y aplicar los conceptos fundamentales: declaracion de variables, tipos de datos basicos (int, float, str, bool), el uso de input() y print(), operaciones aritmeticas y buenas practicas, ademas de la importancia de la indentacion en python.
+---
 
-# INDICE DE EJERCICIOS
+## Descripción
 
-# ejercicio_01.py - Ingreso a evento
-# ejercicio_02.py - Calculadora precio con Iva
-# ejercicio_03.py - Calculadora promedio de notas
-# ejercicio_04.py - Calculadora de edad en días
-# ejercicio_05.py - Multiplos de 5
-# ejercicio_06.py - Contador de letras en una palabra
-# ejercicio_07.py - Calculadora de descuentos en una compra
-# ejercicio_08.py - Convertir minutos a horas y minutos
-# ejercicio_09.py - Calcular el perimetro y area de un circulo
-# ejercicio_10.py - Calcular sueldo por horas
+Este repositorio contiene **10 ejercicios individuales de programación en Python**, desarrollados como parte de la actividad de la **Semana 2**.
+
+Cada ejercicio está diseñado para practicar y aplicar los conceptos fundamentales del lenguaje, tales como:
+
+- Declaración de variables  
+- Tipos de datos básicos (`int`, `float`, `str`, `bool`)  
+- Uso de `input()` y `print()`  
+- Operaciones aritméticas  
+- Buenas prácticas de programación  
+- Importancia de la indentación en Python  
+
+---
+
+## Índice de ejercicios
+
+1. **ejercicio_01.py** – Ingreso a evento  
+2. **ejercicio_02.py** – Calculadora precio con IVA  
+3. **ejercicio_03.py** – Calculadora promedio de notas  
+4. **ejercicio_04.py** – Calculadora de edad en días  
+5. **ejercicio_05.py** – Múltiplos de 5  
+6. **ejercicio_06.py** – Contador de letras en una palabra  
+7. **ejercicio_07.py** – Calculadora de descuentos en una compra  
+8. **ejercicio_08.py** – Convertir minutos a horas y minutos  
+9. **ejercicio_09.py** – Calcular el perímetro y área de un círculo  
+10. **ejercicio_10.py** – Calcular sueldo por horas  
 
