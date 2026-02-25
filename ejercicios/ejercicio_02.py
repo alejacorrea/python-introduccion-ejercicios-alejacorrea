@@ -21,3 +21,16 @@
 # Precio: $45000
 # IVA (19%): $8550
 # Precio total: $53550
+
+# Paso 1: Definir la variable VALOR_IVA
+VALOR_IVA = 19
+# Paso 2: Pedir el precio del producto sin IVA
+precio_sin_iva = float(input("Ingrese el precio del producto sin IVA: "))
+# Paso 3: Calcular el valor del IVA
+iva = precio_sin_iva * (VALOR_IVA / 100)
+# Paso 4: Calcular precio total
+precio_total = precio_sin_iva + iva
+# Paso 5: Mostrar precio, IVA y precio total
+print(f"Precio: ${precio_sin_iva}")
+print(f"IVA ({VALOR_IVA}%): ${iva}")
+print(f"Precio total: ${precio_total}")

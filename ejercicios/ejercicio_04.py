@@ -19,3 +19,12 @@
 # Ejemplo de Salida Esperada:
 # Has vivido 8030 días aproximadamente
 
+# Paso 1: ingresar la edad usando input()
+edad = int(input("¿Cuantos años tienes?: "))
+# Paso 2: Convertir ese valor a numero entero con int() (ya se hizo en el paso anterior)
+# Paso 3: Multiplicar la edad por 365 para sacar los días  
+dias_vividos = edad * 365
+# Paso 4: Mostrar el resultador con print() y un f-string
+print(f"Has vivido {dias_vividos} días aproximadamente")
+
+

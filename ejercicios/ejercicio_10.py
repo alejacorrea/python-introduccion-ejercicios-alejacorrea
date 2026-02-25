@@ -19,3 +19,13 @@
 # Ejemplo de Salida Esperada:
 # El sueldo mensual del colaborador es: $2400000
 
+# Paso 1: Pedir la cantidad de horas trabajadas en el usando input() y convertir a float
+horas_trabajadas = float(input("Horas trabajadas en el mes: "))
+# Paso 2: Pedir el valor que se paga por cada hora trabajada y convertir a float
+valor_por_hora = float(input("Valor por hora: "))
+# Paso 3: Calcular el sueldo mensual multiplicando las horas por el valor por hora
+sueldo_mensual = horas_trabajadas * valor_por_hora
+# Paso 4: Mostrar el resultado del sueldo mensual
+print(f"El sueldo mensual del colaborador es: ${sueldo_mensual}")
+
+

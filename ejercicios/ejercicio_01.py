@@ -20,3 +20,12 @@
 #
 # Ejemplo de Salidad Esperada:
 # Puede ingresar al evento
+
+# Paso 1: Pedir la edad de la persona
+edad = int(input("Ingrese su edad: "))
+# Paso 2: Pedir el valor que pagó
+valor_pagado = float(input("Ingrese el valor pagado: "))
+# Paso 3 y 4: Verificar las condiciones de edad y pago
+if edad > 18 and valor_pagado >= 20000:
+    print("Puede ingresar al evento")   
+else:    print("No puede ingresar al evento")
